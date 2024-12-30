@@ -7,7 +7,7 @@ on:
 
 env:
   INSTANCE: 'Writerside/hi'
-  DOCKER_VERSION: '20.10.8'  # Use a common stable version
+  DOCKER_VERSION: 'latest'  # Use the latest version if specific version is not available
 
 jobs:
   build:
