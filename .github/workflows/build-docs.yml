@@ -7,7 +7,7 @@ on:
 
 env:
   INSTANCE: 'Writerside/hi'
-  DOCKER_VERSION: '243.22562'
+  DOCKER_VERSION: '20.10.8'  # Use a common stable version
 
 jobs:
   build:
@@ -20,6 +20,9 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Check Docker version
+        run: docker --version
 
       - name: Define instance id and artifacts
         id: define-ids
