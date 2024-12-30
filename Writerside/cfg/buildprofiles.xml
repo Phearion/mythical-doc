@@ -4,8 +4,8 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <web-root>https://www.doc.mythical.phearion.fr</web-root>
-        <download-page>https://www.mythical.phearion.fr</download-page>
+        <web-root>https://doc.mythical.phearion.fr/main.html</web-root>
+        <download-page>https://mythical.phearion.fr</download-page>
         <download-title>Mythical Website</download-title>
         <showDownloadButton>true</showDownloadButton>
         <primary-color>strawberry</primary-color>
