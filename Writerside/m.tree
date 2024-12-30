@@ -2,9 +2,11 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
+
 <instance-profile id="m"
                   name="mythical"
-                  start-page="main.topic">
+                  start-page="main.topic"
+                  >
 
     <toc-element topic="main.topic"/>
 

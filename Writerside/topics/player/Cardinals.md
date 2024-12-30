@@ -34,11 +34,11 @@ Each turn, you have three possible actions:
 
 ```mermaid
 graph TD
-    Aries[Aries ♈] -->|Fire| ATK[+20% Attack]
-    Taurus[Taurus ♉] -->|Earth| DEF[+30% Defense]
-    Cancer[Cancer ♋] -->|Water| HEAL[10% HP/Turn]
-    Virgo[Virgo ♍] -->|Earth| CRIT[+20% Crit Chance]
-    Pisces[Pisces ♓] -->|Water| DODGE[20% Dodge Chance]
+    Aries[Aries ♈] --> ATK[+20% Attack]
+    Taurus[Taurus ♉] --> DEF[+30% Defense]
+    Cancer[Cancer ♋] --> HEAL[10% HP/Turn]
+    Virgo[Virgo ♍] --> CRIT[+20% Crit Chance]
+    Pisces[Pisces ♓] --> DODGE[20% Dodge Chance]
 ```
 
 ## Elemental Advantages

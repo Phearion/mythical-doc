@@ -3,7 +3,15 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <web-root>https://www.doc.mythical.phearion.fr</web-root>
+        <download-page>https://www.mythical.phearion.fr</download-page>
+        <download-title>Mythical Website</download-title>
+        <showDownloadButton>true</showDownloadButton>
+        <primary-color>strawberry</primary-color>
+        <header-logo>mystic-egg.png</header-logo>
+        <custom-favicons>mystic-egg.png</custom-favicons>
+    </variables>
     <build-profile instance="m">
         <variables>
             <noindex-content>true</noindex-content>
