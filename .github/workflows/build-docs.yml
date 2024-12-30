@@ -24,6 +24,9 @@ jobs:
       - name: Check Docker version
         run: docker --version
 
+      - name: Pull Writerside Docker image
+        run: docker pull registry.jetbrains.team/p/writerside/builder/writerside-builder:${{ env.DOCKER_VERSION }}
+
       - name: Define instance id and artifacts
         id: define-ids
         run: |
