@@ -1,0 +1,33 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Mythical HOME" id="main">
+
+    <section-starting-page>
+        <title>✨ Welcome to the Magical Realm ✨</title>
+        <description>
+            🌟 Discover Mythical Bot, a unique Discord adventure where you can collect Luminals, team up with Cardinals, and build your own enchanted house. This guide will help you master every aspect of your magical journey.
+        </description>
+
+        <primary>
+            <title>🎯 Essential Features</title>
+            <a href="Luminals.md" summary="Discover and collect magical creatures with unique abilities">🌈 Luminal Collection</a>
+            <a href="Cardinals.md" summary="Master the art of battling with your Cardinal companions">⚔️ Cardinal System (Battle)</a>
+        </primary>
+
+        <secondary>
+            <title>🔨 Advanced Mechanics</title>
+            <a href="DNA-Sequencing.md" summary="Transform eggs using the DNA sequencer">🧬 DNA Sequencing</a>
+            <a href="Forge-System.md" summary="Upgrade your Luminals with the Forge System">⚒️ Forge System</a>
+        </secondary>
+
+        <misc>
+            <cards>
+                <title>🌐 Community Resources</title>
+                <a href="https://discord.gg/JJw53tsMcq" summary="Join our community for support and updates">🎮 Discord Server</a>
+                <a href="https://phearion.fr" summary="Check out our main website">🏰 Official Website</a>
+                <a href="https://top.gg/bot/1250496056521654393" summary="Vote for rewards">⭐ Top.gg Page</a>
+            </cards>
+        </misc>
+    </section-starting-page>
+
+</topic>
