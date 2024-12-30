@@ -45,10 +45,6 @@ export const handleButtonInteraction = async (button: ButtonInteraction) => {
 };
 ```
 
-#### Menu Categories
-As of now, the bot has the following menu categories:
-<img alt="Menu Categories" src="../images/game-menu/categories.png" heigth="250"/>
-
 ### 3. Game Systems
 
 #### Hatchery System
@@ -227,7 +223,7 @@ try {
 ## Deployment Considerations
 
 ### Environment Setup
-```env
+```bash
 DISCORD_TOKEN=your_token
 MONGODB_URI=your_mongodb_uri
 DEBUG_MODE=true

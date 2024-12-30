@@ -8,6 +8,12 @@
             🌟 Discover Mythical Bot, a unique Discord adventure where you can collect Luminals, team up with Cardinals, and build your own enchanted house. This guide will help you master every aspect of your magical journey.
         </description>
 
+        <spotlight>
+            <title>🏠 Getting Started</title>
+            <a href="Luminals.md" summary="Discover and collect magical creatures with unique abilities">🌈 Luminal Collection</a>
+            <a href="Cardinals.md" summary="Master the art of battling with your Cardinal companions">⚔️ Cardinal System (Battle)</a>
+        </spotlight>
+
         <primary>
             <title>🎯 Essential Features</title>
             <a href="Luminals.md" summary="Discover and collect magical creatures with unique abilities">🌈 Luminal Collection</a>

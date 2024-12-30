@@ -179,12 +179,11 @@ This process ensures that each hunt map is unique and visually appealing, provid
 #### ⛈️ Weather System
 ```mermaid
 graph TD
-    A[Weather State] --> B[Storm System]
-    B --> C[Random Storm type Luminal appears]
-    C --> D[Player can interact with the Luminal to get it. (Specific items will be needed depending of the rarity of the Luminal)]
+   A[Weather State] --> B[Storm System]
+   B --> C[Random Storm type Luminal appears]
+   C --> D[Player can interact with the Luminal to get it. Specific items will be needed depending on the rarity of the Luminal]
 ```
 
-[//]: # ( make a diagram to show that a fairy storm luminal we need X brownwood, a enchanted will need Y  brownwood and finally a mystic will need One Stormshard)
 ```mermaid
 graph TD
     A[Storm Luminal] --> B[Fairy]
