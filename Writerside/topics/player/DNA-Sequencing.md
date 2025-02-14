@@ -7,22 +7,22 @@
 1. **Rare Essence**
     - 10% Mystic Chance
     - Common from Infinite Realms (PVE Rewards)
-![Rare Essence](rare-essence.png)
+![Rare Essence](rare-essence.png){ width=50 height=50 }
 
 2. **Epic Essence**
     - 50% Mystic Chance
     - At specific milestones in the PVE mode
-![Epic Essence](epic-essence.png)
+![Epic Essence](epic-essence.png){ width=50 height=50 }
 
 3. **Mystic Essence**
     - 100% Mystic Chance
     - Rare reward from only latest PVE hardest level
-![Mystic Essence](mystic-essence.png)
+![Mystic Essence](mystic-essence.png){ width=50 height=50 }
 
 4. **Winter special item: Phearion Chocolate**
     - Snow Type
     - Available during winter event
-![Winter Phearion Chocolate](winter-chocolate.png)
+![Winter Phearion Chocolate](winter-chocolate.png){ width=50 height=50 }
    
 ```mermaid
 graph TD

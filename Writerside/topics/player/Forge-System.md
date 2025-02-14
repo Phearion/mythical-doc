@@ -8,17 +8,12 @@
 
 ## Strategic Fusion
 
-### Fairy Advantage
-- More common = easier to obtain
-- Faster power growth
-- Can exceed base Mystic stats
-
 ### Rarity Comparison
 
 1. **Fairy Fusion**
-    - Quick progression
-    - Resource efficient
-    - High availability
+    - Quick progression (More common = easier to obtain)
+    - Resource efficient (High cost to fuse many fairy to get same power as Mystic)
+    - Can exceed base Mystic stats with enough fusions
 
 2. **Enchanted Fusion**
     - Balanced growth
@@ -26,7 +21,7 @@
 
 3. **Mystic Fusion**
     - Highest potential
-    - Resource intensive
+    - Resource intensive (hard to obtain a Mystic)
     - Slow progression
 
 ### Resource Optimization
@@ -37,4 +32,4 @@
 ### Dev note:
 
 - The Forge system is designed to provide a strategic progression path for Luminals.
-- For now, we are away of the high cost of each fusion, and are working on balancing the resource economy as well as the power scaling.
+- For now, we are aware of the high cost of each fusion, and are working on balancing the resource economy as well as the power scaling.

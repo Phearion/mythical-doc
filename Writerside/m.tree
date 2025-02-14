@@ -12,9 +12,10 @@
 
     <toc-element toc-title="Player Documentation">
         <toc-element topic="Luminals.md"/>
-        <toc-element topic="Cardinals.md"/>
+        <toc-element topic="CardinalsBattle.md"/>
         <toc-element topic="DNA-Sequencing.md"/>
         <toc-element topic="Forge-System.md"/>
+        <toc-element topic="CardinalsBonding.md"/>
     </toc-element>
 
     <toc-element toc-title="Developer Documentation">
@@ -22,5 +23,4 @@
         <toc-element topic="Elya.md"/>
         <toc-element topic="Hunt.md"/>
     </toc-element>
-
 </instance-profile>
